@@ -65,17 +65,17 @@ def tokenize_dialogs(dialogs, images, processor):
 
 def get_custom_dataset(dataset_config, processor, split, split_ratio=0.9):
     # load_dataset will return DatasetDict that contains all the data in the train set
-    dataset_dict = load_dataset("HuggingFaceM4/the_cauldron", name="figureqa")
+    dataset_dict = load_dataset("dmarsili/Omni3D-Bench")
     dataset = dataset_dict["train"]
     # Comment out the following line to use the full dataset, for quick testing only use 2000 samples
-    dataset = dataset.select(range(2000))
+    # dataset = dataset.select(range(2000))
     dataset = dataset.train_test_split(
         test_size=1 - split_ratio, shuffle=True, seed=42
     )[split]
     return dataset
 
 
-class OCRVQADataCollator:
+class Omni3DDataCollator:
     def __init__(self, processor):
         self.processor = processor
         self.processor.tokenizer.padding_side = (
@@ -85,55 +85,35 @@ class OCRVQADataCollator:
     def __call__(self, samples):
         dialogs, images = [], []
         for sample in samples:
-            image_list, sample_list = sample["images"], sample["texts"]
-            if len(image_list) > 1:
-                raise ValueError("Only support one image per sample")
-            image = image_list[0].convert("RGB")  # only use the first image
-            dialog = []
-            for sample_dict in sample_list:
-                if not dialog:
-                    # only append image to the first sentence
-                    dialog += [
-                        {
-                            "role": "user",
-                            "content": [
-                                {"type": "image"},
-                                {"type": "text", "text": sample_dict["user"].strip()},
-                            ],
-                        },
-                        {
-                            "role": "assistant",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": sample_dict["assistant"].strip(),
-                                }
-                            ],
-                        },
-                    ]
+            image_list, question, answer, answer_type = sample["image"], sample["question"], sample["answer"], sample["answer_type"]
+            image = image_list.convert("RGB")  # only use the first image
 
-                else:
-                    dialog += [
+            if answer_type != "str":
+                answer = str(answer)
+
+            dialog = [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image"},
+                        {"type": "text", "text": question.strip()},
+                    ],
+                },
+                {
+                    "role": "assistant",
+                    "content": [
                         {
-                            "role": "user",
-                            "content": [
-                                {"type": "text", "text": sample_dict["user"].strip()}
-                            ],
-                        },
-                        {
-                            "role": "assistant",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": sample_dict["assistant"].strip(),
-                                }
-                            ],
-                        },
-                    ]
+                            "type": "text",
+                            "text": answer.strip(),
+                        }
+                    ],
+                },
+            ]
+
             dialogs.append(dialog)
             images.append([image])
         return tokenize_dialogs(dialogs, images, self.processor)
 
 
 def get_data_collator(processor):
-    return OCRVQADataCollator(processor)
+    return Omni3DDataCollator(processor)

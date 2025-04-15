@@ -1,0 +1,3226 @@
+[
+    {
+        "frame_id": 0,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.21, \"sensor2_x\": -0.082, \"sensor2_y\": -0.006, \"sensor2_z\": 0.508}<|eot_id|>"
+    },
+    {
+        "frame_id": 20,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.016, \"sensor1_z\": 1.203, \"sensor2_x\": -0.084, \"sensor2_y\": -0.014, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 40,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.016, \"sensor1_z\": 1.21, \"sensor2_x\": -0.082, \"sensor2_y\": 0.006, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 60,
+        "generated_text": "{\"sensor1_x\": 0.085, \"sensor1_y\": 0.018, \"sensor1_z\": 1.176, \"sensor2_x\": -0.082, \"sensor2_y\": -0.013, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 80,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.016, \"sensor1_z\": 1.19, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 100,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 120,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.02, \"sensor1_z\": 1.18, \"sensor2_x\": -0.09, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 140,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.02, \"sensor1_z\": 1.19, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 160,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 180,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.19, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 200,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.016, \"sensor1_z\": 1.21, \"sensor2_x\": -0.094, \"sensor2_y\": 0.004, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 220,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.02, \"sensor1_z\": 1.18, \"sensor2_x\": -0.096, \"sensor2_y\": 0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 240,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 260,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.094, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 280,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.082, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 300,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.21, \"sensor2_x\": -0.084, \"sensor2_y\": -0.014, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 320,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.018, \"sensor1_z\": 1.213, \"sensor2_x\": -0.09, \"sensor2_y\": 0.0, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 340,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.084, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 360,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.21, \"sensor2_x\": -0.088, \"sensor2_y\": 0.004, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 380,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.205, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.495}<|eot_id|>"
+    },
+    {
+        "frame_id": 400,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 420,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 440,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.203, \"sensor2_x\": -0.084, \"sensor2_y\": -0.009, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 460,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.098, \"sensor2_y\": 0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 480,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.21, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 500,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.082, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 520,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.09, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 540,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.084, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 560,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.016, \"sensor1_z\": 1.18, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 580,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.088, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 600,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.018, \"sensor1_z\": 1.21, \"sensor2_x\": -0.084, \"sensor2_y\": 0.006, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 620,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.094, \"sensor2_y\": 0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 640,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.02, \"sensor1_z\": 1.18, \"sensor2_x\": -0.092, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 660,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.094, \"sensor2_y\": 0.004, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 680,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.086, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 700,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.208, \"sensor2_x\": -0.086, \"sensor2_y\": -0.01, \"sensor2_z\": 0.497}<|eot_id|>"
+    },
+    {
+        "frame_id": 720,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.18, \"sensor2_x\": -0.088, \"sensor2_y\": 0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 740,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.016, \"sensor1_z\": 1.203, \"sensor2_x\": -0.088, \"sensor2_y\": -0.003, \"sensor2_z\": 0.494}<|eot_id|>"
+    },
+    {
+        "frame_id": 760,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.018, \"sensor1_z\": 1.21, \"sensor2_x\": -0.088, \"sensor2_y\": 0.0, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 780,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.088, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 800,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.213, \"sensor2_x\": -0.088, \"sensor2_y\": 0.0, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 820,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.016, \"sensor1_z\": 1.205, \"sensor2_x\": -0.088, \"sensor2_y\": -0.007, \"sensor2_z\": 0.5}<|eot_id|>"
+    },
+    {
+        "frame_id": 840,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.17, \"sensor2_x\": -0.086, \"sensor2_y\": -0.012, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 860,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.02, \"sensor1_z\": 1.213, \"sensor2_x\": -0.094, \"sensor2_y\": 0.002, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 880,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.096, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 900,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.012, \"sensor1_z\": 1.18, \"sensor2_x\": -0.09, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 920,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.092, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 940,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.094, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 960,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.213, \"sensor2_x\": -0.086, \"sensor2_y\": -0.007, \"sensor2_z\": 0.504}<|eot_id|>"
+    },
+    {
+        "frame_id": 980,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": 0.018, \"sensor1_z\": 1.21, \"sensor2_x\": -0.09, \"sensor2_y\": 0.002, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 1000,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.213, \"sensor2_x\": -0.092, \"sensor2_y\": 0.0, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 1020,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.02, \"sensor1_z\": 1.18, \"sensor2_x\": -0.088, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1040,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.014, \"sensor1_z\": 1.218, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 1060,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.22, \"sensor2_x\": -0.096, \"sensor2_y\": 0.0, \"sensor2_z\": 0.515}<|eot_id|>"
+    },
+    {
+        "frame_id": 1080,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.018, \"sensor1_z\": 1.213, \"sensor2_x\": -0.088, \"sensor2_y\": 0.0, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 1100,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.018, \"sensor1_z\": 1.18, \"sensor2_x\": -0.088, \"sensor2_y\": 0.004, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 1120,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.094, \"sensor2_y\": 0.008, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 1140,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.213, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 1160,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.012, \"sensor1_z\": 1.203, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 1180,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.012, \"sensor1_z\": 1.203, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 1200,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.016, \"sensor1_z\": 1.213, \"sensor2_x\": -0.092, \"sensor2_y\": 0.004, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 1220,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.213, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.509}<|eot_id|>"
+    },
+    {
+        "frame_id": 1240,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.213, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.508}<|eot_id|>"
+    },
+    {
+        "frame_id": 1260,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.084, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1280,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1300,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.484}<|eot_id|>"
+    },
+    {
+        "frame_id": 1320,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.082, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1340,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1360,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1380,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1400,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1420,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 1440,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1460,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1480,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1500,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 1520,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.203, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 1540,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1560,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1580,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1600,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.016, \"sensor1_z\": 1.203, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.495}<|eot_id|>"
+    },
+    {
+        "frame_id": 1620,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1640,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1660,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1680,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1700,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.092, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1720,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.092, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1740,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1760,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1780,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1800,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1820,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1840,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1860,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1880,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1900,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1920,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1940,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1960,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 1980,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2000,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.01, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2020,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2040,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2060,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2080,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2100,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2120,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2140,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2160,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2180,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2200,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2220,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2240,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2260,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2280,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.092, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2300,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2320,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2340,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2360,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2380,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2400,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2420,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.02, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2440,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2460,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2480,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 2500,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2520,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2540,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 2560,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2580,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2600,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2620,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2640,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.175, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 2660,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 2680,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 2700,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 2720,
+        "generated_text": "{\"sensor1_x\": 0.166, \"sensor1_y\": 0.28, \"sensor1_z\": 1.035, \"sensor2_x\": -0.074, \"sensor2_y\": 0.304, \"sensor2_z\": 0.378}<|eot_id|>"
+    },
+    {
+        "frame_id": 2740,
+        "generated_text": "{\"sensor1_x\": 0.106, \"sensor1_y\": -0.006, \"sensor1_z\": 1.05, \"sensor2_x\": -0.074, \"sensor2_y\": -0.002, \"sensor2_z\": 0.398}<|eot_id|>"
+    },
+    {
+        "frame_id": 2760,
+        "generated_text": "{\"sensor1_x\": 0.228, \"sensor1_y\": 0.452, \"sensor1_z\": 0.705, \"sensor2_x\": -0.086, \"sensor2_y\": 0.366, \"sensor2_z\": 0.12}<|eot_id|>"
+    },
+    {
+        "frame_id": 2780,
+        "generated_text": "{\"sensor1_x\": 0.416, \"sensor1_y\": 0.598, \"sensor1_z\": 0.578, \"sensor2_x\": 0.082, \"sensor2_y\": 0.772, \"sensor2_z\": -0.11}<|eot_id|>"
+    },
+    {
+        "frame_id": 2800,
+        "generated_text": "{\"sensor1_x\": 0.136, \"sensor1_y\": 0.224, \"sensor1_z\": 0.728, \"sensor2_x\": -0.078, \"sensor2_y\": 0.182, \"sensor2_z\": -0.072}<|eot_id|>"
+    },
+    {
+        "frame_id": 2820,
+        "generated_text": "{\"sensor1_x\": 0.318, \"sensor1_y\": 0.696, \"sensor1_z\": 0.395, \"sensor2_x\": 0.086, \"sensor2_y\": 0.604, \"sensor2_z\": -0.247}<|eot_id|>"
+    },
+    {
+        "frame_id": 2840,
+        "generated_text": "{\"sensor1_x\": 0.294, \"sensor1_y\": 0.694, \"sensor1_z\": -0.052, \"sensor2_x\": -0.044, \"sensor2_y\": 0.684, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 2860,
+        "generated_text": "{\"sensor1_x\": 0.404, \"sensor1_y\": 0.936, \"sensor1_z\": -0.28, \"sensor2_x\": -0.054, \"sensor2_y\": 0.872, \"sensor2_z\": -0.813}<|eot_id|>"
+    },
+    {
+        "frame_id": 2880,
+        "generated_text": "{\"sensor1_x\": 0.448, \"sensor1_y\": -0.294, \"sensor1_z\": -0.82, \"sensor2_x\": 0.434, \"sensor2_y\": 0.046, \"sensor2_z\": -1.28}<|eot_id|>"
+    },
+    {
+        "frame_id": 2900,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.946, \"sensor1_z\": -0.975, \"sensor2_x\": 0.058, \"sensor2_y\": 1.264, \"sensor2_z\": -1.365}<|eot_id|>"
+    },
+    {
+        "frame_id": 2920,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.946, \"sensor1_z\": -0.875, \"sensor2_x\": 0.046, \"sensor2_y\": 1.338, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 2940,
+        "generated_text": "{\"sensor1_x\": 0.598, \"sensor1_y\": 0.946, \"sensor1_z\": -0.845, \"sensor2_x\": 0.046, \"sensor2_y\": 1.338, \"sensor2_z\": -1.265}<|eot_id|>"
+    },
+    {
+        "frame_id": 2960,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.952, \"sensor1_z\": -0.905, \"sensor2_x\": 0.048, \"sensor2_y\": 1.174, \"sensor2_z\": -1.325}<|eot_id|>"
+    },
+    {
+        "frame_id": 2980,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.792, \"sensor1_z\": -0.855, \"sensor2_x\": 0.052, \"sensor2_y\": 1.1, \"sensor2_z\": -1.265}<|eot_id|>"
+    },
+    {
+        "frame_id": 3000,
+        "generated_text": "{\"sensor1_x\": 0.59, \"sensor1_y\": 0.946, \"sensor1_z\": -0.925, \"sensor2_x\": 0.048, \"sensor2_y\": 1.26, \"sensor2_z\": -1.32}<|eot_id|>"
+    },
+    {
+        "frame_id": 3020,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.948, \"sensor1_z\": -0.982, \"sensor2_x\": 0.046, \"sensor2_y\": 1.338, \"sensor2_z\": -1.365}<|eot_id|>"
+    },
+    {
+        "frame_id": 3040,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.948, \"sensor1_z\": -0.982, \"sensor2_x\": 0.046, \"sensor2_y\": 1.338, \"sensor2_z\": -1.375}<|eot_id|>"
+    },
+    {
+        "frame_id": 3060,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.948, \"sensor1_z\": -0.975, \"sensor2_x\": 0.038, \"sensor2_y\": 1.114, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3080,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.946, \"sensor1_z\": -0.982, \"sensor2_x\": 0.046, \"sensor2_y\": 1.336, \"sensor2_z\": -1.365}<|eot_id|>"
+    },
+    {
+        "frame_id": 3100,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.946, \"sensor1_z\": -0.908, \"sensor2_x\": 0.046, \"sensor2_y\": 1.178, \"sensor2_z\": -1.285}<|eot_id|>"
+    },
+    {
+        "frame_id": 3120,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.982, \"sensor2_x\": 0.048, \"sensor2_y\": 1.346, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3140,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.946, \"sensor1_z\": -0.905, \"sensor2_x\": 0.046, \"sensor2_y\": 1.328, \"sensor2_z\": -1.325}<|eot_id|>"
+    },
+    {
+        "frame_id": 3160,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.922, \"sensor2_x\": 0.048, \"sensor2_y\": 1.338, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3180,
+        "generated_text": "{\"sensor1_x\": 0.444, \"sensor1_y\": -0.294, \"sensor1_z\": -0.802, \"sensor2_x\": 0.426, \"sensor2_y\": 0.046, \"sensor2_z\": -1.6}<|eot_id|>"
+    },
+    {
+        "frame_id": 3200,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.948, \"sensor1_z\": -0.922, \"sensor2_x\": 0.046, \"sensor2_y\": 1.166, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3220,
+        "generated_text": "{\"sensor1_x\": 0.616, \"sensor1_y\": 0.948, \"sensor1_z\": -0.982, \"sensor2_x\": 0.046, \"sensor2_y\": 1.338, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3240,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.804, \"sensor1_z\": -0.905, \"sensor2_x\": 0.048, \"sensor2_y\": 1.154, \"sensor2_z\": -1.31}<|eot_id|>"
+    },
+    {
+        "frame_id": 3260,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.905, \"sensor2_x\": 0.046, \"sensor2_y\": 1.342, \"sensor2_z\": -1.32}<|eot_id|>"
+    },
+    {
+        "frame_id": 3280,
+        "generated_text": "{\"sensor1_x\": 0.594, \"sensor1_y\": 0.946, \"sensor1_z\": -0.908, \"sensor2_x\": 0.046, \"sensor2_y\": 1.234, \"sensor2_z\": -1.31}<|eot_id|>"
+    },
+    {
+        "frame_id": 3300,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.946, \"sensor1_z\": -0.982, \"sensor2_x\": 0.046, \"sensor2_y\": 1.338, \"sensor2_z\": -1.375}<|eot_id|>"
+    },
+    {
+        "frame_id": 3320,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.946, \"sensor1_z\": -1.25, \"sensor2_x\": 0.048, \"sensor2_y\": 1.366, \"sensor2_z\": -1.805}<|eot_id|>"
+    },
+    {
+        "frame_id": 3340,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.948, \"sensor1_z\": -1.07, \"sensor2_x\": 0.046, \"sensor2_y\": 1.444, \"sensor2_z\": -1.565}<|eot_id|>"
+    },
+    {
+        "frame_id": 3360,
+        "generated_text": "{\"sensor1_x\": 0.616, \"sensor1_y\": 0.948, \"sensor1_z\": -0.982, \"sensor2_x\": 0.074, \"sensor2_y\": 1.246, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3380,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.792, \"sensor1_z\": -0.842, \"sensor2_x\": 0.046, \"sensor2_y\": 1.174, \"sensor2_z\": -1.285}<|eot_id|>"
+    },
+    {
+        "frame_id": 3400,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.948, \"sensor1_z\": -0.982, \"sensor2_x\": 0.044, \"sensor2_y\": 1.372, \"sensor2_z\": -1.335}<|eot_id|>"
+    },
+    {
+        "frame_id": 3420,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.846, \"sensor1_z\": -0.908, \"sensor2_x\": 0.048, \"sensor2_y\": 1.244, \"sensor2_z\": -1.315}<|eot_id|>"
+    },
+    {
+        "frame_id": 3440,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.922, \"sensor2_x\": 0.046, \"sensor2_y\": 1.344, \"sensor2_z\": -1.375}<|eot_id|>"
+    },
+    {
+        "frame_id": 3460,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.982, \"sensor2_x\": 0.046, \"sensor2_y\": 1.338, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3480,
+        "generated_text": "{\"sensor1_x\": 0.612, \"sensor1_y\": 0.948, \"sensor1_z\": -0.982, \"sensor2_x\": 0.046, \"sensor2_y\": 1.372, \"sensor2_z\": -1.365}<|eot_id|>"
+    },
+    {
+        "frame_id": 3500,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.948, \"sensor1_z\": -0.975, \"sensor2_x\": 0.074, \"sensor2_y\": 1.338, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3520,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.946, \"sensor1_z\": -1.12, \"sensor2_x\": 0.048, \"sensor2_y\": 1.338, \"sensor2_z\": -1.58}<|eot_id|>"
+    },
+    {
+        "frame_id": 3540,
+        "generated_text": "{\"sensor1_x\": 0.556, \"sensor1_y\": 0.946, \"sensor1_z\": -0.908, \"sensor2_x\": 0.046, \"sensor2_y\": 1.234, \"sensor2_z\": -1.32}<|eot_id|>"
+    },
+    {
+        "frame_id": 3560,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.894, \"sensor1_z\": -0.975, \"sensor2_x\": 0.046, \"sensor2_y\": 1.284, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3580,
+        "generated_text": "{\"sensor1_x\": 0.596, \"sensor1_y\": 0.946, \"sensor1_z\": -0.945, \"sensor2_x\": 0.046, \"sensor2_y\": 1.156, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3600,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.982, \"sensor2_x\": 0.048, \"sensor2_y\": 1.366, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3620,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.958, \"sensor2_x\": 0.046, \"sensor2_y\": 1.228, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3640,
+        "generated_text": "{\"sensor1_x\": 0.612, \"sensor1_y\": 0.946, \"sensor1_z\": -0.915, \"sensor2_x\": 0.046, \"sensor2_y\": 1.34, \"sensor2_z\": -1.32}<|eot_id|>"
+    },
+    {
+        "frame_id": 3660,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.946, \"sensor1_z\": -0.805, \"sensor2_x\": 0.046, \"sensor2_y\": 1.298, \"sensor2_z\": -1.285}<|eot_id|>"
+    },
+    {
+        "frame_id": 3680,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.946, \"sensor1_z\": -0.945, \"sensor2_x\": 0.048, \"sensor2_y\": 1.254, \"sensor2_z\": -1.375}<|eot_id|>"
+    },
+    {
+        "frame_id": 3700,
+        "generated_text": "{\"sensor1_x\": 0.612, \"sensor1_y\": 0.952, \"sensor1_z\": -1.265, \"sensor2_x\": 0.046, \"sensor2_y\": 1.428, \"sensor2_z\": -1.705}<|eot_id|>"
+    },
+    {
+        "frame_id": 3720,
+        "generated_text": "{\"sensor1_x\": 0.59, \"sensor1_y\": 0.946, \"sensor1_z\": -0.975, \"sensor2_x\": 0.046, \"sensor2_y\": 1.324, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3740,
+        "generated_text": "{\"sensor1_x\": 0.604, \"sensor1_y\": 0.948, \"sensor1_z\": -0.915, \"sensor2_x\": 0.074, \"sensor2_y\": 1.338, \"sensor2_z\": -1.32}<|eot_id|>"
+    },
+    {
+        "frame_id": 3760,
+        "generated_text": "{\"sensor1_x\": 0.598, \"sensor1_y\": 0.946, \"sensor1_z\": -0.905, \"sensor2_x\": 0.046, \"sensor2_y\": 1.304, \"sensor2_z\": -1.375}<|eot_id|>"
+    },
+    {
+        "frame_id": 3780,
+        "generated_text": "{\"sensor1_x\": 0.598, \"sensor1_y\": 0.946, \"sensor1_z\": -1.405, \"sensor2_x\": 0.446, \"sensor2_y\": 1.446, \"sensor2_z\": -2.087}<|eot_id|>"
+    },
+    {
+        "frame_id": 3800,
+        "generated_text": "{\"sensor1_x\": 0.602, \"sensor1_y\": 0.948, \"sensor1_z\": -0.982, \"sensor2_x\": 0.056, \"sensor2_y\": 1.284, \"sensor2_z\": -1.345}<|eot_id|>"
+    },
+    {
+        "frame_id": 3820,
+        "generated_text": "{\"sensor1_x\": 0.448, \"sensor1_y\": 0.914, \"sensor1_z\": -0.245, \"sensor2_x\": -0.042, \"sensor2_y\": 0.812, \"sensor2_z\": -0.688}<|eot_id|>"
+    },
+    {
+        "frame_id": 3840,
+        "generated_text": "{\"sensor1_x\": 0.298, \"sensor1_y\": 0.694, \"sensor1_z\": -0.11, \"sensor2_x\": -0.058, \"sensor2_y\": 0.404, \"sensor2_z\": -0.633}<|eot_id|>"
+    },
+    {
+        "frame_id": 3860,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.678, \"sensor1_z\": 0.088, \"sensor2_x\": -0.034, \"sensor2_y\": 0.366, \"sensor2_z\": -0.453}<|eot_id|>"
+    },
+    {
+        "frame_id": 3880,
+        "generated_text": "{\"sensor1_x\": 0.194, \"sensor1_y\": 0.416, \"sensor1_z\": 0.508, \"sensor2_x\": -0.046, \"sensor2_y\": 0.366, \"sensor2_z\": -0.27}<|eot_id|>"
+    },
+    {
+        "frame_id": 3900,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.284, \"sensor1_z\": 0.605, \"sensor2_x\": 0.074, \"sensor2_y\": -0.184, \"sensor2_z\": 0.003}<|eot_id|>"
+    },
+    {
+        "frame_id": 3920,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.014, \"sensor1_z\": 0.173, \"sensor2_x\": -0.074, \"sensor2_y\": -0.006, \"sensor2_z\": -0.45}<|eot_id|>"
+    },
+    {
+        "frame_id": 3940,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.666, \"sensor1_z\": 0.415, \"sensor2_x\": -0.036, \"sensor2_y\": 0.324, \"sensor2_z\": -0.247}<|eot_id|>"
+    },
+    {
+        "frame_id": 3960,
+        "generated_text": "{\"sensor1_x\": 0.238, \"sensor1_y\": 0.446, \"sensor1_z\": 0.505, \"sensor2_x\": -0.038, \"sensor2_y\": 0.316, \"sensor2_z\": -0.227}<|eot_id|>"
+    },
+    {
+        "frame_id": 3980,
+        "generated_text": "{\"sensor1_x\": 0.318, \"sensor1_y\": 0.694, \"sensor1_z\": 0.598, \"sensor2_x\": -0.038, \"sensor2_y\": 0.444, \"sensor2_z\": -0.005}<|eot_id|>"
+    },
+    {
+        "frame_id": 4000,
+        "generated_text": "{\"sensor1_x\": 0.11, \"sensor1_y\": -0.024, \"sensor1_z\": 0.945, \"sensor2_x\": -0.056, \"sensor2_y\": -0.006, \"sensor2_z\": 0.278}<|eot_id|>"
+    },
+    {
+        "frame_id": 4020,
+        "generated_text": "{\"sensor1_x\": 0.154, \"sensor1_y\": 0.266, \"sensor1_z\": 0.663, \"sensor2_x\": -0.084, \"sensor2_y\": -0.044, \"sensor2_z\": -0.008}<|eot_id|>"
+    },
+    {
+        "frame_id": 4040,
+        "generated_text": "{\"sensor1_x\": 0.228, \"sensor1_y\": 0.396, \"sensor1_z\": 0.663, \"sensor2_x\": -0.046, \"sensor2_y\": 0.446, \"sensor2_z\": -0.047}<|eot_id|>"
+    },
+    {
+        "frame_id": 4060,
+        "generated_text": "{\"sensor1_x\": 0.144, \"sensor1_y\": 0.236, \"sensor1_z\": 0.905, \"sensor2_x\": -0.066, \"sensor2_y\": 0.304, \"sensor2_z\": 0.245}<|eot_id|>"
+    },
+    {
+        "frame_id": 4080,
+        "generated_text": "{\"sensor1_x\": 0.176, \"sensor1_y\": -0.066, \"sensor1_z\": 1.035, \"sensor2_x\": -0.086, \"sensor2_y\": -0.034, \"sensor2_z\": 0.353}<|eot_id|>"
+    },
+    {
+        "frame_id": 4100,
+        "generated_text": "{\"sensor1_x\": 0.116, \"sensor1_y\": -0.014, \"sensor1_z\": 1.075, \"sensor2_x\": -0.082, \"sensor2_y\": -0.004, \"sensor2_z\": 0.363}<|eot_id|>"
+    },
+    {
+        "frame_id": 4120,
+        "generated_text": "{\"sensor1_x\": 0.128, \"sensor1_y\": 0.062, \"sensor1_z\": 1.03, \"sensor2_x\": -0.086, \"sensor2_y\": 0.036, \"sensor2_z\": 0.358}<|eot_id|>"
+    },
+    {
+        "frame_id": 4140,
+        "generated_text": "{\"sensor1_x\": 0.106, \"sensor1_y\": -0.022, \"sensor1_z\": 1.115, \"sensor2_x\": -0.076, \"sensor2_y\": -0.004, \"sensor2_z\": 0.448}<|eot_id|>"
+    },
+    {
+        "frame_id": 4160,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.006, \"sensor1_z\": 1.145, \"sensor2_x\": -0.084, \"sensor2_y\": 0.006, \"sensor2_z\": 0.448}<|eot_id|>"
+    },
+    {
+        "frame_id": 4180,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.034, \"sensor1_z\": 1.13, \"sensor2_x\": -0.082, \"sensor2_y\": -0.002, \"sensor2_z\": 0.443}<|eot_id|>"
+    },
+    {
+        "frame_id": 4200,
+        "generated_text": "{\"sensor1_x\": 0.106, \"sensor1_y\": 0.06, \"sensor1_z\": 1.13, \"sensor2_x\": -0.082, \"sensor2_y\": -0.006, \"sensor2_z\": 0.503}<|eot_id|>"
+    },
+    {
+        "frame_id": 4220,
+        "generated_text": "{\"sensor1_x\": 0.104, \"sensor1_y\": -0.02, \"sensor1_z\": 1.118, \"sensor2_x\": -0.088, \"sensor2_y\": 0.006, \"sensor2_z\": 0.435}<|eot_id|>"
+    },
+    {
+        "frame_id": 4240,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.012, \"sensor1_z\": 1.153, \"sensor2_x\": -0.088, \"sensor2_y\": 0.004, \"sensor2_z\": 0.453}<|eot_id|>"
+    },
+    {
+        "frame_id": 4260,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.024, \"sensor1_z\": 1.155, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.455}<|eot_id|>"
+    },
+    {
+        "frame_id": 4280,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.165, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 4300,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 4320,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 4340,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.028, \"sensor1_z\": 1.153, \"sensor2_x\": -0.086, \"sensor2_y\": 0.006, \"sensor2_z\": 0.458}<|eot_id|>"
+    },
+    {
+        "frame_id": 4360,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.16, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 4380,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 4400,
+        "generated_text": "{\"sensor1_x\": 0.1, \"sensor1_y\": 0.04, \"sensor1_z\": 1.165, \"sensor2_x\": -0.082, \"sensor2_y\": 0.008, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 4420,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4440,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 4460,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 4480,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.168, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 4500,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.016, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 4520,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.165, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 4540,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.012, \"sensor1_z\": 1.163, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 4560,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 4580,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 4600,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 4620,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.173, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 4640,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.163, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.453}<|eot_id|>"
+    },
+    {
+        "frame_id": 4660,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4680,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 4700,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 4720,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 4740,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4760,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4780,
+        "generated_text": "{\"sensor1_x\": 0.1, \"sensor1_y\": 0.014, \"sensor1_z\": 1.165, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 4800,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4820,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 4840,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4860,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 4880,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4900,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4920,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4940,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4960,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 4980,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 5000,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5020,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5040,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5060,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5080,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5100,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5120,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5140,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5160,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5180,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5200,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5220,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5240,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 5260,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 5280,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5300,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.082, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5320,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5340,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5360,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.092, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5380,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5400,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5420,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5440,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5460,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5480,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 5500,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5520,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5540,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5560,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5580,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.014, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5600,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5620,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5640,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5660,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5680,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.084, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5700,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5720,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5740,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5760,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5780,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5800,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5820,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5840,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5860,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5880,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5900,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 5920,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5940,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5960,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 5980,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 6000,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6020,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.18, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6040,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6060,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6080,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6100,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6120,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6140,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6160,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 6180,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 6200,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6220,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6240,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 6260,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6280,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6300,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6320,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 6340,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6360,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6380,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6400,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 6420,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.092, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 6440,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 6460,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 6480,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 6500,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 6520,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 6540,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.016, \"sensor1_z\": 1.11, \"sensor2_x\": -0.084, \"sensor2_y\": -0.006, \"sensor2_z\": 0.42}<|eot_id|>"
+    },
+    {
+        "frame_id": 6560,
+        "generated_text": "{\"sensor1_x\": 0.106, \"sensor1_y\": -0.002, \"sensor1_z\": 1.13, \"sensor2_x\": -0.088, \"sensor2_y\": 0.0, \"sensor2_z\": 0.445}<|eot_id|>"
+    },
+    {
+        "frame_id": 6580,
+        "generated_text": "{\"sensor1_x\": 0.108, \"sensor1_y\": 0.032, \"sensor1_z\": 1.093, \"sensor2_x\": -0.086, \"sensor2_y\": 0.002, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 6600,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.04, \"sensor1_z\": 1.125, \"sensor2_x\": -0.084, \"sensor2_y\": 0.018, \"sensor2_z\": 0.453}<|eot_id|>"
+    },
+    {
+        "frame_id": 6620,
+        "generated_text": "{\"sensor1_x\": 0.134, \"sensor1_y\": 0.228, \"sensor1_z\": 1.003, \"sensor2_x\": -0.084, \"sensor2_y\": 0.148, \"sensor2_z\": 0.385}<|eot_id|>"
+    },
+    {
+        "frame_id": 6640,
+        "generated_text": "{\"sensor1_x\": 0.154, \"sensor1_y\": 0.222, \"sensor1_z\": 0.935, \"sensor2_x\": -0.044, \"sensor2_y\": 0.234, \"sensor2_z\": 0.17}<|eot_id|>"
+    },
+    {
+        "frame_id": 6660,
+        "generated_text": "{\"sensor1_x\": 0.196, \"sensor1_y\": 0.232, \"sensor1_z\": 0.93, \"sensor2_x\": -0.044, \"sensor2_y\": 0.344, \"sensor2_z\": 0.165}<|eot_id|>"
+    },
+    {
+        "frame_id": 6680,
+        "generated_text": "{\"sensor1_x\": 0.234, \"sensor1_y\": 0.416, \"sensor1_z\": 0.695, \"sensor2_x\": -0.046, \"sensor2_y\": 0.306, \"sensor2_z\": -0.037}<|eot_id|>"
+    },
+    {
+        "frame_id": 6700,
+        "generated_text": "{\"sensor1_x\": 0.136, \"sensor1_y\": -0.066, \"sensor1_z\": 0.893, \"sensor2_x\": -0.064, \"sensor2_y\": -0.086, \"sensor2_z\": 0.228}<|eot_id|>"
+    },
+    {
+        "frame_id": 6720,
+        "generated_text": "{\"sensor1_x\": 0.166, \"sensor1_y\": 0.284, \"sensor1_z\": 0.653, \"sensor2_x\": -0.058, \"sensor2_y\": 0.308, \"sensor2_z\": -0.048}<|eot_id|>"
+    },
+    {
+        "frame_id": 6740,
+        "generated_text": "{\"sensor1_x\": 0.336, \"sensor1_y\": 0.66, \"sensor1_z\": 0.585, \"sensor2_x\": -0.034, \"sensor2_y\": 0.434, \"sensor2_z\": -0.12}<|eot_id|>"
+    },
+    {
+        "frame_id": 6760,
+        "generated_text": "{\"sensor1_x\": 0.598, \"sensor1_y\": 0.416, \"sensor1_z\": 0.728, \"sensor2_x\": -0.046, \"sensor2_y\": 0.426, \"sensor2_z\": 0.103}<|eot_id|>"
+    },
+    {
+        "frame_id": 6780,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.766, \"sensor1_z\": 0.245, \"sensor2_x\": -0.038, \"sensor2_y\": 0.398, \"sensor2_z\": -0.245}<|eot_id|>"
+    },
+    {
+        "frame_id": 6800,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.624, \"sensor1_z\": 0.278, \"sensor2_x\": -0.046, \"sensor2_y\": 0.344, \"sensor2_z\": -0.305}<|eot_id|>"
+    },
+    {
+        "frame_id": 6820,
+        "generated_text": "{\"sensor1_x\": 0.336, \"sensor1_y\": 0.946, \"sensor1_z\": 0.11, \"sensor2_x\": -0.046, \"sensor2_y\": 1.144, \"sensor2_z\": -0.438}<|eot_id|>"
+    },
+    {
+        "frame_id": 6840,
+        "generated_text": "{\"sensor1_x\": 0.434, \"sensor1_y\": 0.938, \"sensor1_z\": 0.105, \"sensor2_x\": -0.034, \"sensor2_y\": 0.448, \"sensor2_z\": -0.31}<|eot_id|>"
+    },
+    {
+        "frame_id": 6860,
+        "generated_text": "{\"sensor1_x\": 0.316, \"sensor1_y\": 0.636, \"sensor1_z\": 0.3, \"sensor2_x\": -0.054, \"sensor2_y\": 0.294, \"sensor2_z\": -0.24}<|eot_id|>"
+    },
+    {
+        "frame_id": 6880,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.688, \"sensor1_z\": 0.345, \"sensor2_x\": -0.036, \"sensor2_y\": 0.364, \"sensor2_z\": -0.255}<|eot_id|>"
+    },
+    {
+        "frame_id": 6900,
+        "generated_text": "{\"sensor1_x\": 0.326, \"sensor1_y\": 0.704, \"sensor1_z\": 0.265, \"sensor2_x\": -0.032, \"sensor2_y\": 0.344, \"sensor2_z\": -0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 6920,
+        "generated_text": "{\"sensor1_x\": 0.294, \"sensor1_y\": 0.694, \"sensor1_z\": 0.298, \"sensor2_x\": -0.034, \"sensor2_y\": 0.334, \"sensor2_z\": -0.25}<|eot_id|>"
+    },
+    {
+        "frame_id": 6940,
+        "generated_text": "{\"sensor1_x\": 0.316, \"sensor1_y\": 0.794, \"sensor1_z\": 0.242, \"sensor2_x\": -0.038, \"sensor2_y\": 0.334, \"sensor2_z\": -0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 6960,
+        "generated_text": "{\"sensor1_x\": 0.396, \"sensor1_y\": 0.812, \"sensor1_z\": 0.308, \"sensor2_x\": -0.044, \"sensor2_y\": 0.764, \"sensor2_z\": -0.265}<|eot_id|>"
+    },
+    {
+        "frame_id": 6980,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.696, \"sensor1_z\": 0.308, \"sensor2_x\": -0.044, \"sensor2_y\": 0.448, \"sensor2_z\": -0.228}<|eot_id|>"
+    },
+    {
+        "frame_id": 7000,
+        "generated_text": "{\"sensor1_x\": 0.316, \"sensor1_y\": 0.754, \"sensor1_z\": 0.255, \"sensor2_x\": -0.044, \"sensor2_y\": 0.452, \"sensor2_z\": -0.297}<|eot_id|>"
+    },
+    {
+        "frame_id": 7020,
+        "generated_text": "{\"sensor1_x\": 0.316, \"sensor1_y\": 0.766, \"sensor1_z\": 0.298, \"sensor2_x\": -0.034, \"sensor2_y\": 0.344, \"sensor2_z\": -0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 7040,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.636, \"sensor1_z\": 0.308, \"sensor2_x\": -0.034, \"sensor2_y\": 0.312, \"sensor2_z\": -0.245}<|eot_id|>"
+    },
+    {
+        "frame_id": 7060,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.764, \"sensor1_z\": 0.308, \"sensor2_x\": -0.034, \"sensor2_y\": 0.382, \"sensor2_z\": -0.245}<|eot_id|>"
+    },
+    {
+        "frame_id": 7080,
+        "generated_text": "{\"sensor1_x\": 0.136, \"sensor1_y\": 0.454, \"sensor1_z\": 0.355, \"sensor2_x\": -0.076, \"sensor2_y\": 0.278, \"sensor2_z\": -0.292}<|eot_id|>"
+    },
+    {
+        "frame_id": 7100,
+        "generated_text": "{\"sensor1_x\": 0.336, \"sensor1_y\": 0.696, \"sensor1_z\": 0.278, \"sensor2_x\": -0.038, \"sensor2_y\": -0.242, \"sensor2_z\": -0.285}<|eot_id|>"
+    },
+    {
+        "frame_id": 7120,
+        "generated_text": "{\"sensor1_x\": 0.242, \"sensor1_y\": 0.674, \"sensor1_z\": 0.285, \"sensor2_x\": -0.058, \"sensor2_y\": 0.386, \"sensor2_z\": -0.247}<|eot_id|>"
+    },
+    {
+        "frame_id": 7140,
+        "generated_text": "{\"sensor1_x\": 0.306, \"sensor1_y\": 0.764, \"sensor1_z\": 0.288, \"sensor2_x\": -0.058, \"sensor2_y\": 0.486, \"sensor2_z\": -0.247}<|eot_id|>"
+    },
+    {
+        "frame_id": 7160,
+        "generated_text": "{\"sensor1_x\": 0.294, \"sensor1_y\": 0.764, \"sensor1_z\": 0.255, \"sensor2_x\": -0.046, \"sensor2_y\": 0.316, \"sensor2_z\": -0.27}<|eot_id|>"
+    },
+    {
+        "frame_id": 7180,
+        "generated_text": "{\"sensor1_x\": 0.266, \"sensor1_y\": 0.554, \"sensor1_z\": 0.303, \"sensor2_x\": -0.054, \"sensor2_y\": 0.294, \"sensor2_z\": -0.252}<|eot_id|>"
+    },
+    {
+        "frame_id": 7200,
+        "generated_text": "{\"sensor1_x\": 0.298, \"sensor1_y\": 0.694, \"sensor1_z\": 0.278, \"sensor2_x\": -0.032, \"sensor2_y\": 0.398, \"sensor2_z\": -0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 7220,
+        "generated_text": "{\"sensor1_x\": 0.312, \"sensor1_y\": 0.764, \"sensor1_z\": 0.28, \"sensor2_x\": -0.024, \"sensor2_y\": 0.504, \"sensor2_z\": -0.247}<|eot_id|>"
+    },
+    {
+        "frame_id": 7240,
+        "generated_text": "{\"sensor1_x\": 0.248, \"sensor1_y\": 0.656, \"sensor1_z\": 0.308, \"sensor2_x\": -0.034, \"sensor2_y\": 0.436, \"sensor2_z\": -0.245}<|eot_id|>"
+    },
+    {
+        "frame_id": 7260,
+        "generated_text": "{\"sensor1_x\": 0.294, \"sensor1_y\": 0.764, \"sensor1_z\": 0.308, \"sensor2_x\": -0.038, \"sensor2_y\": 0.428, \"sensor2_z\": -0.245}<|eot_id|>"
+    },
+    {
+        "frame_id": 7280,
+        "generated_text": "{\"sensor1_x\": 0.314, \"sensor1_y\": 0.686, \"sensor1_z\": 0.308, \"sensor2_x\": -0.046, \"sensor2_y\": 0.604, \"sensor2_z\": -0.302}<|eot_id|>"
+    },
+    {
+        "frame_id": 7300,
+        "generated_text": "{\"sensor1_x\": 0.306, \"sensor1_y\": 0.676, \"sensor1_z\": 0.298, \"sensor2_x\": -0.038, \"sensor2_y\": 0.304, \"sensor2_z\": -0.243}<|eot_id|>"
+    },
+    {
+        "frame_id": 7320,
+        "generated_text": "{\"sensor1_x\": 0.306, \"sensor1_y\": 0.664, \"sensor1_z\": 0.253, \"sensor2_x\": -0.046, \"sensor2_y\": 0.364, \"sensor2_z\": -0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 7340,
+        "generated_text": "{\"sensor1_x\": 0.336, \"sensor1_y\": 0.804, \"sensor1_z\": 0.088, \"sensor2_x\": -0.054, \"sensor2_y\": 0.436, \"sensor2_z\": -0.43}<|eot_id|>"
+    },
+    {
+        "frame_id": 7360,
+        "generated_text": "{\"sensor1_x\": 0.31, \"sensor1_y\": 0.92, \"sensor1_z\": 0.245, \"sensor2_x\": -0.038, \"sensor2_y\": 0.59, \"sensor2_z\": -0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 7380,
+        "generated_text": "{\"sensor1_x\": 0.332, \"sensor1_y\": 0.82, \"sensor1_z\": 0.208, \"sensor2_x\": -0.034, \"sensor2_y\": 0.338, \"sensor2_z\": -0.28}<|eot_id|>"
+    },
+    {
+        "frame_id": 7400,
+        "generated_text": "{\"sensor1_x\": 0.298, \"sensor1_y\": 0.644, \"sensor1_z\": 0.278, \"sensor2_x\": -0.034, \"sensor2_y\": 0.372, \"sensor2_z\": -0.255}<|eot_id|>"
+    },
+    {
+        "frame_id": 7420,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.736, \"sensor1_z\": 0.228, \"sensor2_x\": -0.034, \"sensor2_y\": 0.436, \"sensor2_z\": -0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 7440,
+        "generated_text": "{\"sensor1_x\": 0.238, \"sensor1_y\": 0.536, \"sensor1_z\": 0.578, \"sensor2_x\": -0.036, \"sensor2_y\": 0.444, \"sensor2_z\": -0.095}<|eot_id|>"
+    },
+    {
+        "frame_id": 7460,
+        "generated_text": "{\"sensor1_x\": 0.138, \"sensor1_y\": 0.228, \"sensor1_z\": 0.735, \"sensor2_x\": -0.074, \"sensor2_y\": -0.05, \"sensor2_z\": -0.08}<|eot_id|>"
+    },
+    {
+        "frame_id": 7480,
+        "generated_text": "{\"sensor1_x\": 0.11, \"sensor1_y\": -0.006, \"sensor1_z\": 0.975, \"sensor2_x\": -0.076, \"sensor2_y\": -0.006, \"sensor2_z\": 0.263}<|eot_id|>"
+    },
+    {
+        "frame_id": 7500,
+        "generated_text": "{\"sensor1_x\": 0.444, \"sensor1_y\": 0.444, \"sensor1_z\": 0.598, \"sensor2_x\": -0.042, \"sensor2_y\": 0.388, \"sensor2_z\": -0.097}<|eot_id|>"
+    },
+    {
+        "frame_id": 7520,
+        "generated_text": "{\"sensor1_x\": 0.166, \"sensor1_y\": 0.296, \"sensor1_z\": 0.905, \"sensor2_x\": -0.062, \"sensor2_y\": 0.366, \"sensor2_z\": 0.258}<|eot_id|>"
+    },
+    {
+        "frame_id": 7540,
+        "generated_text": "{\"sensor1_x\": 0.156, \"sensor1_y\": 0.256, \"sensor1_z\": 0.905, \"sensor2_x\": -0.056, \"sensor2_y\": -0.074, \"sensor2_z\": 0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 7560,
+        "generated_text": "{\"sensor1_x\": 0.214, \"sensor1_y\": 0.232, \"sensor1_z\": 0.905, \"sensor2_x\": -0.042, \"sensor2_y\": 0.258, \"sensor2_z\": 0.12}<|eot_id|>"
+    },
+    {
+        "frame_id": 7580,
+        "generated_text": "{\"sensor1_x\": 0.176, \"sensor1_y\": 0.2, \"sensor1_z\": 0.905, \"sensor2_x\": -0.066, \"sensor2_y\": 0.136, \"sensor2_z\": 0.253}<|eot_id|>"
+    },
+    {
+        "frame_id": 7600,
+        "generated_text": "{\"sensor1_x\": 0.108, \"sensor1_y\": -0.018, \"sensor1_z\": 1.123, \"sensor2_x\": -0.082, \"sensor2_y\": 0.002, \"sensor2_z\": 0.448}<|eot_id|>"
+    },
+    {
+        "frame_id": 7620,
+        "generated_text": "{\"sensor1_x\": 0.106, \"sensor1_y\": 0.034, \"sensor1_z\": 1.13, \"sensor2_x\": -0.082, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 7640,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": -0.012, \"sensor1_z\": 1.13, \"sensor2_x\": -0.082, \"sensor2_y\": 0.004, \"sensor2_z\": 0.448}<|eot_id|>"
+    },
+    {
+        "frame_id": 7660,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.012, \"sensor1_z\": 1.15, \"sensor2_x\": -0.082, \"sensor2_y\": -0.002, \"sensor2_z\": 0.458}<|eot_id|>"
+    },
+    {
+        "frame_id": 7680,
+        "generated_text": "{\"sensor1_x\": 0.1, \"sensor1_y\": 0.02, \"sensor1_z\": 1.113, \"sensor2_x\": -0.09, \"sensor2_y\": 0.004, \"sensor2_z\": 0.415}<|eot_id|>"
+    },
+    {
+        "frame_id": 7700,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.158, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 7720,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.163, \"sensor2_x\": -0.09, \"sensor2_y\": 0.002, \"sensor2_z\": 0.455}<|eot_id|>"
+    },
+    {
+        "frame_id": 7740,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 7760,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 7780,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 7800,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 7820,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 7840,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 7860,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 7880,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 7900,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 7920,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 7940,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 7960,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 7980,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 8000,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8020,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8040,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 8060,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8080,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": 0.0, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8100,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8120,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8140,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": 0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8160,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8180,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8200,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.084, \"sensor2_y\": -0.012, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8220,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8240,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8260,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 8280,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8300,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8320,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8340,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8360,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8380,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": -0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8400,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8420,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8440,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8460,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8480,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8500,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8520,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8540,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8560,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8580,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.178, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 8600,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8620,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8640,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8660,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8680,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8700,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8720,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8740,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.018, \"sensor1_z\": 1.175, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8760,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8780,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8800,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.018, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8820,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 8840,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.014, \"sensor1_z\": 1.168, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 8860,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8880,
+        "generated_text": "{\"sensor1_x\": 0.196, \"sensor1_y\": 0.38, \"sensor1_z\": 0.848, \"sensor2_x\": -0.066, \"sensor2_y\": 0.306, \"sensor2_z\": 0.11}<|eot_id|>"
+    },
+    {
+        "frame_id": 8900,
+        "generated_text": "{\"sensor1_x\": 0.108, \"sensor1_y\": 0.088, \"sensor1_z\": 1.13, \"sensor2_x\": -0.082, \"sensor2_y\": -0.028, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 8920,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.145, \"sensor2_x\": -0.09, \"sensor2_y\": 0.0, \"sensor2_z\": 0.445}<|eot_id|>"
+    },
+    {
+        "frame_id": 8940,
+        "generated_text": "{\"sensor1_x\": 0.166, \"sensor1_y\": 0.232, \"sensor1_z\": 0.905, \"sensor2_x\": -0.042, \"sensor2_y\": 0.308, \"sensor2_z\": 0.178}<|eot_id|>"
+    },
+    {
+        "frame_id": 8960,
+        "generated_text": "{\"sensor1_x\": 0.11, \"sensor1_y\": 0.08, \"sensor1_z\": 1.035, \"sensor2_x\": -0.078, \"sensor2_y\": 0.06, \"sensor2_z\": 0.328}<|eot_id|>"
+    },
+    {
+        "frame_id": 8980,
+        "generated_text": "{\"sensor1_x\": 0.236, \"sensor1_y\": 0.454, \"sensor1_z\": 0.663, \"sensor2_x\": -0.038, \"sensor2_y\": 0.452, \"sensor2_z\": -0.105}<|eot_id|>"
+    },
+    {
+        "frame_id": 9000,
+        "generated_text": "{\"sensor1_x\": 0.298, \"sensor1_y\": 0.664, \"sensor1_z\": 0.578, \"sensor2_x\": 0.046, \"sensor2_y\": 0.378, \"sensor2_z\": -0.095}<|eot_id|>"
+    },
+    {
+        "frame_id": 9020,
+        "generated_text": "{\"sensor1_x\": 0.298, \"sensor1_y\": 0.694, \"sensor1_z\": 0.655, \"sensor2_x\": -0.032, \"sensor2_y\": 0.384, \"sensor2_z\": -0.02}<|eot_id|>"
+    },
+    {
+        "frame_id": 9040,
+        "generated_text": "{\"sensor1_x\": 0.312, \"sensor1_y\": 0.858, \"sensor1_z\": 0.113, \"sensor2_x\": -0.026, \"sensor2_y\": 0.436, \"sensor2_z\": -0.505}<|eot_id|>"
+    },
+    {
+        "frame_id": 9060,
+        "generated_text": "{\"sensor1_x\": 0.306, \"sensor1_y\": 0.82, \"sensor1_z\": 0.278, \"sensor2_x\": -0.036, \"sensor2_y\": 0.414, \"sensor2_z\": -0.242}<|eot_id|>"
+    },
+    {
+        "frame_id": 9080,
+        "generated_text": "{\"sensor1_x\": 0.312, \"sensor1_y\": 0.946, \"sensor1_z\": 0.105, \"sensor2_x\": -0.046, \"sensor2_y\": 1.062, \"sensor2_z\": -0.548}<|eot_id|>"
+    },
+    {
+        "frame_id": 9100,
+        "generated_text": "{\"sensor1_x\": 0.294, \"sensor1_y\": 0.696, \"sensor1_z\": -0.097, \"sensor2_x\": 0.068, \"sensor2_y\": 0.462, \"sensor2_z\": -0.663}<|eot_id|>"
+    },
+    {
+        "frame_id": 9120,
+        "generated_text": "{\"sensor1_x\": 0.598, \"sensor1_y\": 0.452, \"sensor1_z\": -0.502, \"sensor2_x\": 0.046, \"sensor2_y\": -0.294, \"sensor2_z\": -0.908}<|eot_id|>"
+    },
+    {
+        "frame_id": 9140,
+        "generated_text": "{\"sensor1_x\": 0.306, \"sensor1_y\": 0.946, \"sensor1_z\": -0.087, \"sensor2_x\": -0.038, \"sensor2_y\": 0.938, \"sensor2_z\": -0.705}<|eot_id|>"
+    },
+    {
+        "frame_id": 9160,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.858, \"sensor1_z\": 0.085, \"sensor2_x\": -0.036, \"sensor2_y\": 0.454, \"sensor2_z\": -0.548}<|eot_id|>"
+    },
+    {
+        "frame_id": 9180,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.876, \"sensor1_z\": -0.02, \"sensor2_x\": -0.032, \"sensor2_y\": 0.578, \"sensor2_z\": -0.663}<|eot_id|>"
+    },
+    {
+        "frame_id": 9200,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": -0.322, \"sensor1_z\": -0.022, \"sensor2_x\": 0.086, \"sensor2_y\": -0.032, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 9220,
+        "generated_text": "{\"sensor1_x\": 0.078, \"sensor1_y\": -0.324, \"sensor1_z\": -0.12, \"sensor2_x\": 0.06, \"sensor2_y\": -0.034, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 9240,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": -0.322, \"sensor1_z\": -0.002, \"sensor2_x\": 0.078, \"sensor2_y\": -0.046, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 9260,
+        "generated_text": "{\"sensor1_x\": 0.068, \"sensor1_y\": -0.324, \"sensor1_z\": -0.002, \"sensor2_x\": 0.046, \"sensor2_y\": -0.034, \"sensor2_z\": -0.705}<|eot_id|>"
+    },
+    {
+        "frame_id": 9280,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": -0.324, \"sensor1_z\": -0.002, \"sensor2_x\": 0.074, \"sensor2_y\": -0.028, \"sensor2_z\": -0.705}<|eot_id|>"
+    },
+    {
+        "frame_id": 9300,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.334, \"sensor1_z\": -0.177, \"sensor2_x\": 0.086, \"sensor2_y\": -0.026, \"sensor2_z\": -0.748}<|eot_id|>"
+    },
+    {
+        "frame_id": 9320,
+        "generated_text": "{\"sensor1_x\": 0.06, \"sensor1_y\": -0.294, \"sensor1_z\": -0.047, \"sensor2_x\": 0.062, \"sensor2_y\": -0.042, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9340,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.326, \"sensor1_z\": -0.012, \"sensor2_x\": 0.084, \"sensor2_y\": -0.022, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9360,
+        "generated_text": "{\"sensor1_x\": 0.076, \"sensor1_y\": -0.322, \"sensor1_z\": -0.022, \"sensor2_x\": 0.06, \"sensor2_y\": -0.046, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9380,
+        "generated_text": "{\"sensor1_x\": 0.058, \"sensor1_y\": -0.318, \"sensor1_z\": -0.12, \"sensor2_x\": 0.042, \"sensor2_y\": -0.046, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9400,
+        "generated_text": "{\"sensor1_x\": 0.044, \"sensor1_y\": -0.294, \"sensor1_z\": -0.005, \"sensor2_x\": 0.044, \"sensor2_y\": -0.042, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9420,
+        "generated_text": "{\"sensor1_x\": 0.078, \"sensor1_y\": -0.334, \"sensor1_z\": -0.005, \"sensor2_x\": 0.074, \"sensor2_y\": -0.028, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 9440,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.324, \"sensor1_z\": -0.022, \"sensor2_x\": 0.082, \"sensor2_y\": -0.042, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 9460,
+        "generated_text": "{\"sensor1_x\": -0.116, \"sensor1_y\": -0.022, \"sensor1_z\": -0.075, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": -0.625}<|eot_id|>"
+    },
+    {
+        "frame_id": 9480,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": -0.324, \"sensor1_z\": -0.022, \"sensor2_x\": 0.086, \"sensor2_y\": -0.014, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9500,
+        "generated_text": "{\"sensor1_x\": 0.144, \"sensor1_y\": -0.048, \"sensor1_z\": -0.02, \"sensor2_x\": 0.232, \"sensor2_y\": 0.164, \"sensor2_z\": -0.663}<|eot_id|>"
+    },
+    {
+        "frame_id": 9520,
+        "generated_text": "{\"sensor1_x\": 0.074, \"sensor1_y\": -0.312, \"sensor1_z\": -0.035, \"sensor2_x\": 0.066, \"sensor2_y\": -0.022, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 9540,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.312, \"sensor1_z\": -0.002, \"sensor2_x\": 0.082, \"sensor2_y\": -0.034, \"sensor2_z\": -0.705}<|eot_id|>"
+    },
+    {
+        "frame_id": 9560,
+        "generated_text": "{\"sensor1_x\": 0.064, \"sensor1_y\": -0.324, \"sensor1_z\": -0.002, \"sensor2_x\": 0.042, \"sensor2_y\": -0.058, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9580,
+        "generated_text": "{\"sensor1_x\": 0.346, \"sensor1_y\": 0.62, \"sensor1_z\": -0.07, \"sensor2_x\": 0.062, \"sensor2_y\": 0.748, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9600,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": -0.322, \"sensor1_z\": -0.022, \"sensor2_x\": 0.084, \"sensor2_y\": -0.028, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 9620,
+        "generated_text": "{\"sensor1_x\": 0.294, \"sensor1_y\": 0.954, \"sensor1_z\": -0.005, \"sensor2_x\": -0.058, \"sensor2_y\": 0.95, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 9640,
+        "generated_text": "{\"sensor1_x\": 0.102, \"sensor1_y\": -0.332, \"sensor1_z\": -0.005, \"sensor2_x\": 0.086, \"sensor2_y\": -0.028, \"sensor2_z\": -0.743}<|eot_id|>"
+    },
+    {
+        "frame_id": 9660,
+        "generated_text": "{\"sensor1_x\": 0.106, \"sensor1_y\": -0.334, \"sensor1_z\": -0.035, \"sensor2_x\": 0.076, \"sensor2_y\": -0.052, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9680,
+        "generated_text": "{\"sensor1_x\": 0.074, \"sensor1_y\": -0.326, \"sensor1_z\": -0.035, \"sensor2_x\": 0.064, \"sensor2_y\": -0.046, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 9700,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.324, \"sensor1_z\": -0.005, \"sensor2_x\": 0.082, \"sensor2_y\": -0.034, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9720,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": -0.312, \"sensor1_z\": -0.005, \"sensor2_x\": 0.082, \"sensor2_y\": -0.034, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9740,
+        "generated_text": "{\"sensor1_x\": 0.066, \"sensor1_y\": -0.318, \"sensor1_z\": -0.035, \"sensor2_x\": 0.044, \"sensor2_y\": -0.034, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 9760,
+        "generated_text": "{\"sensor1_x\": 0.072, \"sensor1_y\": -0.324, \"sensor1_z\": -0.002, \"sensor2_x\": 0.046, \"sensor2_y\": -0.028, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9780,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.308, \"sensor1_z\": -0.075, \"sensor2_x\": 0.074, \"sensor2_y\": -0.044, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9800,
+        "generated_text": "{\"sensor1_x\": 0.082, \"sensor1_y\": -0.324, \"sensor1_z\": -0.035, \"sensor2_x\": 0.08, \"sensor2_y\": -0.036, \"sensor2_z\": -0.73}<|eot_id|>"
+    },
+    {
+        "frame_id": 9820,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.324, \"sensor1_z\": -0.025, \"sensor2_x\": 0.064, \"sensor2_y\": -0.028, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9840,
+        "generated_text": "{\"sensor1_x\": 0.072, \"sensor1_y\": -0.324, \"sensor1_z\": -0.035, \"sensor2_x\": 0.046, \"sensor2_y\": -0.046, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 9860,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.332, \"sensor1_z\": -0.035, \"sensor2_x\": 0.086, \"sensor2_y\": -0.028, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 9880,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": -0.308, \"sensor1_z\": -0.035, \"sensor2_x\": 0.066, \"sensor2_y\": -0.046, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 9900,
+        "generated_text": "{\"sensor1_x\": 0.11, \"sensor1_y\": -0.046, \"sensor1_z\": 0.002, \"sensor2_x\": 0.086, \"sensor2_y\": -0.036, \"sensor2_z\": -0.688}<|eot_id|>"
+    },
+    {
+        "frame_id": 9920,
+        "generated_text": "{\"sensor1_x\": 0.084, \"sensor1_y\": -0.328, \"sensor1_z\": -0.047, \"sensor2_x\": 0.078, \"sensor2_y\": -0.024, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 9940,
+        "generated_text": "{\"sensor1_x\": -0.086, \"sensor1_y\": -0.318, \"sensor1_z\": -0.01, \"sensor2_x\": -0.056, \"sensor2_y\": -0.066, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 9960,
+        "generated_text": "{\"sensor1_x\": -0.082, \"sensor1_y\": -0.306, \"sensor1_z\": -0.002, \"sensor2_x\": -0.034, \"sensor2_y\": -0.044, \"sensor2_z\": -0.708}<|eot_id|>"
+    },
+    {
+        "frame_id": 9980,
+        "generated_text": "{\"sensor1_x\": -0.11, \"sensor1_y\": -0.004, \"sensor1_z\": -0.083, \"sensor2_x\": -0.076, \"sensor2_y\": -0.014, \"sensor2_z\": -0.663}<|eot_id|>"
+    },
+    {
+        "frame_id": 10000,
+        "generated_text": "{\"sensor1_x\": -0.054, \"sensor1_y\": -0.306, \"sensor1_z\": -0.028, \"sensor2_x\": -0.052, \"sensor2_y\": -0.03, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10020,
+        "generated_text": "{\"sensor1_x\": 0.126, \"sensor1_y\": -0.246, \"sensor1_z\": -0.177, \"sensor2_x\": 0.076, \"sensor2_y\": -0.046, \"sensor2_z\": -0.73}<|eot_id|>"
+    },
+    {
+        "frame_id": 10040,
+        "generated_text": "{\"sensor1_x\": 0.298, \"sensor1_y\": 0.696, \"sensor1_z\": -0.047, \"sensor2_x\": -0.046, \"sensor2_y\": 0.804, \"sensor2_z\": -0.788}<|eot_id|>"
+    },
+    {
+        "frame_id": 10060,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": -0.32, \"sensor1_z\": -0.052, \"sensor2_x\": 0.06, \"sensor2_y\": -0.036, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 10080,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": -0.296, \"sensor1_z\": -0.027, \"sensor2_x\": 0.086, \"sensor2_y\": -0.06, \"sensor2_z\": -0.75}<|eot_id|>"
+    },
+    {
+        "frame_id": 10100,
+        "generated_text": "{\"sensor1_x\": 0.062, \"sensor1_y\": -0.322, \"sensor1_z\": -0.003, \"sensor2_x\": 0.064, \"sensor2_y\": -0.036, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10120,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": -0.322, \"sensor1_z\": -0.008, \"sensor2_x\": 0.078, \"sensor2_y\": -0.046, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 10140,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": -0.316, \"sensor1_z\": 0.005, \"sensor2_x\": 0.08, \"sensor2_y\": -0.028, \"sensor2_z\": -0.693}<|eot_id|>"
+    },
+    {
+        "frame_id": 10160,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.304, \"sensor1_z\": -0.008, \"sensor2_x\": 0.064, \"sensor2_y\": -0.034, \"sensor2_z\": -0.708}<|eot_id|>"
+    },
+    {
+        "frame_id": 10180,
+        "generated_text": "{\"sensor1_x\": 0.0, \"sensor1_y\": -0.204, \"sensor1_z\": -0.002, \"sensor2_x\": 0.0, \"sensor2_y\": -0.168, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 10200,
+        "generated_text": "{\"sensor1_x\": 0.074, \"sensor1_y\": -0.32, \"sensor1_z\": -0.002, \"sensor2_x\": 0.064, \"sensor2_y\": -0.026, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 10220,
+        "generated_text": "{\"sensor1_x\": -0.094, \"sensor1_y\": -0.024, \"sensor1_z\": -0.005, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10240,
+        "generated_text": "{\"sensor1_x\": 0.062, \"sensor1_y\": -0.324, \"sensor1_z\": -0.035, \"sensor2_x\": 0.06, \"sensor2_y\": -0.028, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 10260,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": -0.326, \"sensor1_z\": -0.035, \"sensor2_x\": 0.086, \"sensor2_y\": -0.058, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 10280,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.324, \"sensor1_z\": -0.045, \"sensor2_x\": 0.084, \"sensor2_y\": -0.046, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 10300,
+        "generated_text": "{\"sensor1_x\": 0.072, \"sensor1_y\": -0.324, \"sensor1_z\": -0.002, \"sensor2_x\": 0.058, \"sensor2_y\": -0.028, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 10320,
+        "generated_text": "{\"sensor1_x\": 0.074, \"sensor1_y\": -0.322, \"sensor1_z\": -0.002, \"sensor2_x\": 0.048, \"sensor2_y\": -0.064, \"sensor2_z\": -0.705}<|eot_id|>"
+    },
+    {
+        "frame_id": 10340,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.324, \"sensor1_z\": -0.0, \"sensor2_x\": 0.082, \"sensor2_y\": -0.028, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 10360,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": -0.326, \"sensor1_z\": -0.07, \"sensor2_x\": 0.062, \"sensor2_y\": -0.028, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10380,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.322, \"sensor1_z\": -0.008, \"sensor2_x\": 0.074, \"sensor2_y\": -0.042, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10400,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.326, \"sensor1_z\": -0.07, \"sensor2_x\": 0.074, \"sensor2_y\": -0.034, \"sensor2_z\": -0.663}<|eot_id|>"
+    },
+    {
+        "frame_id": 10420,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.326, \"sensor1_z\": -0.035, \"sensor2_x\": 0.086, \"sensor2_y\": -0.034, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 10440,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": -0.324, \"sensor1_z\": -0.035, \"sensor2_x\": 0.086, \"sensor2_y\": -0.086, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 10460,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": -0.324, \"sensor1_z\": -0.005, \"sensor2_x\": 0.086, \"sensor2_y\": -0.066, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10480,
+        "generated_text": "{\"sensor1_x\": 0.074, \"sensor1_y\": -0.324, \"sensor1_z\": -0.002, \"sensor2_x\": 0.042, \"sensor2_y\": -0.052, \"sensor2_z\": -0.703}<|eot_id|>"
+    },
+    {
+        "frame_id": 10500,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": -0.326, \"sensor1_z\": -0.002, \"sensor2_x\": 0.086, \"sensor2_y\": -0.086, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10520,
+        "generated_text": "{\"sensor1_x\": 0.088, \"sensor1_y\": -0.324, \"sensor1_z\": -0.052, \"sensor2_x\": 0.062, \"sensor2_y\": -0.028, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10540,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.322, \"sensor1_z\": -0.047, \"sensor2_x\": 0.078, \"sensor2_y\": -0.046, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10560,
+        "generated_text": "{\"sensor1_x\": 0.072, \"sensor1_y\": -0.312, \"sensor1_z\": -0.002, \"sensor2_x\": 0.048, \"sensor2_y\": -0.052, \"sensor2_z\": -0.708}<|eot_id|>"
+    },
+    {
+        "frame_id": 10580,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.318, \"sensor1_z\": -0.025, \"sensor2_x\": 0.084, \"sensor2_y\": -0.086, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10600,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.322, \"sensor1_z\": -0.035, \"sensor2_x\": 0.078, \"sensor2_y\": -0.044, \"sensor2_z\": -0.735}<|eot_id|>"
+    },
+    {
+        "frame_id": 10620,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": -0.322, \"sensor1_z\": -0.002, \"sensor2_x\": 0.064, \"sensor2_y\": -0.024, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10640,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.446, \"sensor1_z\": -0.002, \"sensor2_x\": -0.076, \"sensor2_y\": 0.326, \"sensor2_z\": -0.663}<|eot_id|>"
+    },
+    {
+        "frame_id": 10660,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.326, \"sensor1_z\": -0.035, \"sensor2_x\": 0.084, \"sensor2_y\": -0.028, \"sensor2_z\": -0.73}<|eot_id|>"
+    },
+    {
+        "frame_id": 10680,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": -0.324, \"sensor1_z\": -0.008, \"sensor2_x\": 0.078, \"sensor2_y\": -0.028, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10700,
+        "generated_text": "{\"sensor1_x\": 0.086, \"sensor1_y\": -0.318, \"sensor1_z\": -0.052, \"sensor2_x\": 0.068, \"sensor2_y\": -0.046, \"sensor2_z\": -0.753}<|eot_id|>"
+    },
+    {
+        "frame_id": 10720,
+        "generated_text": "{\"sensor1_x\": -0.072, \"sensor1_y\": -0.318, \"sensor1_z\": -0.002, \"sensor2_x\": -0.046, \"sensor2_y\": -0.248, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10740,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": -0.32, \"sensor1_z\": -0.035, \"sensor2_x\": 0.072, \"sensor2_y\": -0.058, \"sensor2_z\": -0.71}<|eot_id|>"
+    },
+    {
+        "frame_id": 10760,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.318, \"sensor1_z\": 0.035, \"sensor2_x\": 0.062, \"sensor2_y\": -0.062, \"sensor2_z\": -0.618}<|eot_id|>"
+    },
+    {
+        "frame_id": 10780,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": -0.324, \"sensor1_z\": -0.035, \"sensor2_x\": 0.082, \"sensor2_y\": -0.046, \"sensor2_z\": -0.728}<|eot_id|>"
+    },
+    {
+        "frame_id": 10800,
+        "generated_text": "{\"sensor1_x\": 0.296, \"sensor1_y\": 0.76, \"sensor1_z\": 0.062, \"sensor2_x\": -0.046, \"sensor2_y\": 0.602, \"sensor2_z\": -0.593}<|eot_id|>"
+    },
+    {
+        "frame_id": 10820,
+        "generated_text": "{\"sensor1_x\": 0.114, \"sensor1_y\": -0.054, \"sensor1_z\": 0.078, \"sensor2_x\": 0.064, \"sensor2_y\": -0.044, \"sensor2_z\": -0.563}<|eot_id|>"
+    },
+    {
+        "frame_id": 10840,
+        "generated_text": "{\"sensor1_x\": 0.306, \"sensor1_y\": 0.764, \"sensor1_z\": 0.305, \"sensor2_x\": -0.036, \"sensor2_y\": 0.454, \"sensor2_z\": -0.247}<|eot_id|>"
+    },
+    {
+        "frame_id": 10860,
+        "generated_text": "{\"sensor1_x\": 0.146, \"sensor1_y\": -0.062, \"sensor1_z\": 1.003, \"sensor2_x\": -0.06, \"sensor2_y\": -0.106, \"sensor2_z\": 0.37}<|eot_id|>"
+    },
+    {
+        "frame_id": 10880,
+        "generated_text": "{\"sensor1_x\": 0.166, \"sensor1_y\": 0.232, \"sensor1_z\": 0.908, \"sensor2_x\": -0.052, \"sensor2_y\": 0.294, \"sensor2_z\": 0.173}<|eot_id|>"
+    },
+    {
+        "frame_id": 10900,
+        "generated_text": "{\"sensor1_x\": 0.106, \"sensor1_y\": -0.004, \"sensor1_z\": 1.135, \"sensor2_x\": -0.08, \"sensor2_y\": 0.126, \"sensor2_z\": 0.433}<|eot_id|>"
+    },
+    {
+        "frame_id": 10920,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": -0.024, \"sensor1_z\": 1.133, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.425}<|eot_id|>"
+    },
+    {
+        "frame_id": 10940,
+        "generated_text": "{\"sensor1_x\": 0.102, \"sensor1_y\": 0.014, \"sensor1_z\": 1.158, \"sensor2_x\": -0.088, \"sensor2_y\": 0.0, \"sensor2_z\": 0.453}<|eot_id|>"
+    },
+    {
+        "frame_id": 10960,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 10980,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11000,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.032, \"sensor1_z\": 1.168, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 11020,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.168, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 11040,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.024, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": 0.004, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 11060,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.026, \"sensor1_z\": 1.175, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11080,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.018, \"sensor1_z\": 1.165, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 11100,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11120,
+        "generated_text": "{\"sensor1_x\": 0.098, \"sensor1_y\": 0.032, \"sensor1_z\": 1.173, \"sensor2_x\": -0.084, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11140,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.47}<|eot_id|>"
+    },
+    {
+        "frame_id": 11160,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.022, \"sensor1_z\": 1.165, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.463}<|eot_id|>"
+    },
+    {
+        "frame_id": 11180,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11200,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11220,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.084, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11240,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11260,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11280,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": 0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11300,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.173, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11320,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11340,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11360,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.465}<|eot_id|>"
+    },
+    {
+        "frame_id": 11380,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.173, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11400,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11420,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.475}<|eot_id|>"
+    },
+    {
+        "frame_id": 11440,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11460,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.175, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11480,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11500,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.178, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11520,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11540,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11560,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11580,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11600,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.175, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 11620,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11640,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.185, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 11660,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 11680,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11700,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11720,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 11740,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 11760,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11780,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 11800,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 11820,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11840,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11860,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 11880,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 11900,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 11920,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 11940,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11960,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 11980,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12000,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12020,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12040,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.016, \"sensor1_z\": 1.178, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.473}<|eot_id|>"
+    },
+    {
+        "frame_id": 12060,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12080,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12100,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 12120,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12140,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12160,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12180,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12200,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12220,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.018, \"sensor1_z\": 1.188, \"sensor2_x\": -0.082, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12240,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12260,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12280,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12300,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12320,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.082, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12340,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12360,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12380,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12400,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 12420,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.084, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12440,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12460,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12480,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12500,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12520,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12540,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12560,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12580,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12600,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12620,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.084, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12640,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 12660,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12680,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 12700,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 12720,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 12740,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12760,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 12780,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12800,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.016, \"sensor1_z\": 1.193, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 12820,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.016, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 12840,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12860,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12880,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 12900,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12920,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 12940,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12960,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 12980,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13000,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 13020,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13040,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.084, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13060,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 13080,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13100,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13120,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13140,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13160,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13180,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13200,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.016, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 13220,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13240,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13260,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.084, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 13280,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13300,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13320,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13340,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 13360,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 13380,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13400,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13420,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13440,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13460,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 13480,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13500,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13520,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13540,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 13560,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13580,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13600,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13620,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13640,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13660,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13680,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13700,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13720,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13740,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 13760,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13780,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 13800,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13820,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.084, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13840,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 13860,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13880,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13900,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13920,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13940,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13960,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 13980,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14000,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14020,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14040,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14060,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14080,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14100,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14120,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14140,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 14160,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14180,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 14200,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14220,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14240,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14260,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 14280,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14300,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14320,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14340,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14360,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14380,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 14400,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14420,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14440,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14460,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14480,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14500,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14520,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 14540,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 14560,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14580,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14600,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.092, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14620,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14640,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14660,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14680,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14700,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 14720,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14740,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14760,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.008, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 14780,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14800,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14820,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14840,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14860,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14880,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14900,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14920,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 14940,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 14960,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 14980,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 15000,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15020,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15040,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.183, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 15060,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.183, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.478}<|eot_id|>"
+    },
+    {
+        "frame_id": 15080,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 15100,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15120,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15140,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15160,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15180,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15200,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 15220,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15240,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15260,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15280,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15300,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15320,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15340,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.016, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15360,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15380,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15400,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15420,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15440,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15460,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 15480,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15500,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.495}<|eot_id|>"
+    },
+    {
+        "frame_id": 15520,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15540,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15560,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.002, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15580,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.016, \"sensor1_z\": 1.198, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15600,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15620,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15640,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.09, \"sensor2_y\": -0.002, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15660,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.082, \"sensor2_y\": -0.008, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15680,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15700,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15720,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.008, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15740,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.485}<|eot_id|>"
+    },
+    {
+        "frame_id": 15760,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15780,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.016, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 15800,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15820,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 15840,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15860,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.09, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15880,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.193, \"sensor2_x\": -0.084, \"sensor2_y\": -0.008, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15900,
+        "generated_text": "{\"sensor1_x\": 0.09, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15920,
+        "generated_text": "{\"sensor1_x\": 0.096, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 15940,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15960,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 15980,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.014, \"sensor1_z\": 1.188, \"sensor2_x\": -0.09, \"sensor2_y\": -0.008, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 16000,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.188, \"sensor2_x\": -0.084, \"sensor2_y\": -0.004, \"sensor2_z\": 0.483}<|eot_id|>"
+    },
+    {
+        "frame_id": 16020,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.012, \"sensor1_z\": 1.195, \"sensor2_x\": -0.088, \"sensor2_y\": -0.002, \"sensor2_z\": 0.49}<|eot_id|>"
+    },
+    {
+        "frame_id": 16040,
+        "generated_text": "{\"sensor1_x\": 0.094, \"sensor1_y\": 0.012, \"sensor1_z\": 1.193, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.487}<|eot_id|>"
+    },
+    {
+        "frame_id": 16060,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.086, \"sensor2_y\": -0.004, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 16080,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.006, \"sensor2_z\": 0.492}<|eot_id|>"
+    },
+    {
+        "frame_id": 16100,
+        "generated_text": "{\"sensor1_x\": 0.092, \"sensor1_y\": 0.014, \"sensor1_z\": 1.198, \"sensor2_x\": -0.088, \"sensor2_y\": -0.004, \"sensor2_z\": 0.49}<|eot_id|>"
+    }
+]

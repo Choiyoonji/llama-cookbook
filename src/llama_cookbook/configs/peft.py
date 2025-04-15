@@ -6,9 +6,9 @@ from typing import List
 
 @dataclass
 class lora_config:
-     r: int=8
-     lora_alpha: int=32
-     target_modules: List[str] = field(default_factory=lambda: ["q_proj", "v_proj"])
+     r: int=128
+     lora_alpha: int=256
+     target_modules: List[str] = field(default_factory=lambda: ["q_proj", "v_proj", "k_proj", "o_proj", "gate_proj", "up_proj", "down_proj"])
      bias= "none"
      task_type: str= "CAUSAL_LM"
      lora_dropout: float=0.05
@@ -16,8 +16,8 @@ class lora_config:
 
 @dataclass
 class llama_adapter_config:
-     adapter_len: int= 10
-     adapter_layers: int= 30
+     adapter_len: int= 20
+     adapter_layers: int= 40
      task_type: str= "CAUSAL_LM"
 
 #CAUTION prefix tuning is currently not supported

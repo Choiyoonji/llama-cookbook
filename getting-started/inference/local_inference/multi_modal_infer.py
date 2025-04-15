@@ -57,6 +57,8 @@ def load_model_and_processor(model_name: str, finetuning_path: str = None):
             model, finetuning_path, is_adapter=True, torch_dtype=torch.bfloat16
         )
         print("LoRA adapter merged successfully")
+    else:
+        print("wrong path")
 
     model, processor = accelerator.prepare(model, processor)
     return model, processor
@@ -210,7 +212,7 @@ def main(args):
     """Main execution flow"""
     if args.gradio_ui:
         demo = gradio_interface(args.model_name)
-        demo.launch()
+        demo.launch(share=True)
     else:
         model, processor = load_model_and_processor(
             args.model_name, args.finetuning_path

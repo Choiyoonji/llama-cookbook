@@ -7,6 +7,8 @@ import itertools
 
 import torch
 from datasets import load_dataset
+from PIL import Image 
+import json
 
 
 # check system prompt token seq or user prompt token seq is in the current token list
@@ -63,19 +65,27 @@ def tokenize_dialogs(dialogs, images, processor):
     return batch
 
 
+
 def get_custom_dataset(dataset_config, processor, split, split_ratio=0.9):
+    data_files = {"train": "/home/choiyj/remote_data/dataset_train.csv", "test": "/home/choiyj/remote_data/dataset_test.csv", "validation": "/home/choiyj/remote_data/dataset_validation.csv"}
     # load_dataset will return DatasetDict that contains all the data in the train set
-    dataset_dict = load_dataset("HuggingFaceM4/the_cauldron", name="figureqa")
+    dataset_dict = load_dataset("csv", data_files=data_files)
     dataset = dataset_dict["train"]
-    # Comment out the following line to use the full dataset, for quick testing only use 2000 samples
-    dataset = dataset.select(range(2000))
+    dataset = dataset.select(range(10000))
     dataset = dataset.train_test_split(
         test_size=1 - split_ratio, shuffle=True, seed=42
     )[split]
     return dataset
 
 
-class OCRVQADataCollator:
+def get_concat_v(im1, im2):
+    dst = Image.new('RGB', (im1.width, im1.height + im2.height))
+    dst.paste(im1, (0, 0))
+    dst.paste(im2, (0, im1.height))
+    return dst
+
+
+class ForceDataCollator:
     def __init__(self, processor):
         self.processor = processor
         self.processor.tokenizer.padding_side = (
@@ -85,55 +95,45 @@ class OCRVQADataCollator:
     def __call__(self, samples):
         dialogs, images = [], []
         for sample in samples:
-            image_list, sample_list = sample["images"], sample["texts"]
-            if len(image_list) > 1:
-                raise ValueError("Only support one image per sample")
-            image = image_list[0].convert("RGB")  # only use the first image
-            dialog = []
-            for sample_dict in sample_list:
-                if not dialog:
-                    # only append image to the first sentence
-                    dialog += [
-                        {
-                            "role": "user",
-                            "content": [
-                                {"type": "image"},
-                                {"type": "text", "text": sample_dict["user"].strip()},
-                            ],
-                        },
-                        {
-                            "role": "assistant",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": sample_dict["assistant"].strip(),
-                                }
-                            ],
-                        },
-                    ]
+            color_image_path, ext_color_image_path, object_name, force_data, gripper_data, robot_pos_data, robot_cur_data = sample["color_image"], sample["ext_color_image"], sample["object_name"], sample["force_data"], sample["gripper_data"], sample["robot_pos_data"], sample["robot_cur_data"]
+            
+            color_image = Image.open(color_image_path)
+            ext_color_image = Image.open(ext_color_image_path)
 
-                else:
-                    dialog += [
+            color_image = color_image.convert("RGB")
+            ext_color_image = ext_color_image.convert("RGB")
+
+            gripper_data = json.loads(gripper_data)
+
+            gripper_pos = str(gripper_data['gripper_pos'])
+            gripper_cur = str(gripper_data['gripper_cur'])
+
+            concat_color_image = get_concat_v(color_image, ext_color_image)
+            question = f"At a specific moment during the process of grasping, lifting, or releasing the object, what are the forces (sensor1_x, sensor1_y, sensor1_z, sensor2_x, sensor2_y, sensor2_z) exerted by both fingers of the gripper? The gripper opening is {gripper_pos}. The end-effector pose of the robotic arm at this instant is defined by its position and orientation {robot_pos_data}. The joint current of the robotic arm at this instant is {robot_cur_data}."
+
+            dialog = [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image"},
+                        {"type": "text", "text": question},
+                    ],
+                },
+                {
+                    "role": "assistant",
+                    "content": [
                         {
-                            "role": "user",
-                            "content": [
-                                {"type": "text", "text": sample_dict["user"].strip()}
-                            ],
-                        },
-                        {
-                            "role": "assistant",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": sample_dict["assistant"].strip(),
-                                }
-                            ],
-                        },
-                    ]
+                            "type": "text",
+                            "text": force_data,
+                        }
+                    ],
+                },
+            ]
+
             dialogs.append(dialog)
-            images.append([image])
+            images.append([concat_color_image])
         return tokenize_dialogs(dialogs, images, self.processor)
 
 
 def get_data_collator(processor):
-    return OCRVQADataCollator(processor)
+    return ForceDataCollator(processor)
